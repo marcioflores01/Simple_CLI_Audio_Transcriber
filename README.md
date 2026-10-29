@@ -56,3 +56,7 @@ The script lives in this repo. `~/audio_to_transcript.py` is a symbolic link to 
 ```bash
 ln -s ~/Developer/Simple_CLI_Audio_Transcriber/audio_to_transcript.py ~/audio_to_transcript.py
 ```
+
+## License
+
+MIT. See `LICENSE`.
